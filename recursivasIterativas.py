@@ -1,4 +1,4 @@
-# recursivas
+# recursivas____________________________________________
 def fibo(n) :
     if n<=2:return 1
     return fibo(n-1)+fibo(n-2)
@@ -12,7 +12,7 @@ def div(n,m):
     if m>n : return 0
     return div((n-m),m)+1
 
-#iterativas
+#iterativas__________________________________________________
 def fiboi(n) :
     a,b = 0, 1
     for i in range(0,n)
