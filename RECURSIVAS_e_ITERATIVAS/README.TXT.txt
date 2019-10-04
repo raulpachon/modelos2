@@ -1,6 +1,6 @@
-Este programa contine  en forma recursiva e iterativa  las funciones:
-- Término n de la serie de fibonacci
+Este programa contiene  en forma recursiva e iterativa  las funciones:
+- TÃ©rmino n de la serie de fibonacci
 - Potencia de enteros
-- División de enteros 
+- DivisiÃ³n de enteros 
 
-codigo desarrollado por Raúl Pachón Alarcón 20171020167
+codigo desarrollado por RaÃºl PachÃ³n AlarcÃ³n 20171020167
