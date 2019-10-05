@@ -1,3 +1,8 @@
+/*
+Este es un programa que lee un arreglo de 10 elementos enteros y obtiene la diferencia
+entre dos elementos consecutivos del arreglo.
+*/
+
 include <iostream>
 #include <cmath>
 using namespace std;
