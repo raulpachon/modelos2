@@ -1,6 +1,6 @@
 # Ejercicios Guía python
 
-* 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y
+-5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y
 altura[solución]()
 
 * 13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros
