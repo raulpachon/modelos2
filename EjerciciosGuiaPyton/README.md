@@ -1,11 +1,11 @@
-Ejercicios Guía python
+#Ejercicios Guía python
 
 [solución]()
-13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros
-sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[solución]()
+  13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros
+  sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[solución]()
 
-31 Escribir un programa que genere las tablas de multiplicar de un número introducido por el
-teclado.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Tabla_de_multiplicar.py)
+  31 Escribir un programa que genere las tablas de multiplicar de un número introducido por el
+  teclado.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Tabla_de_multiplicar.py)
 
 34. Escribir un programa que pida un número y si el que se introduce por el teclado es diferente
 de cero (0) vuelva a solicitarlo, el programa debe mostrar en cada iteración cuanto es la
