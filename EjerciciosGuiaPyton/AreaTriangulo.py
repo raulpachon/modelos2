@@ -1,12 +1,6 @@
 base = float(input('ingrese el tamaño de la base del triangulo:'))
 altura = float(input('ingrese el tamaño de la altura del triangulo:'))
 print(f"la area del triangulo es : {(base*altura)/2}  unidades cudradas")
-13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros
-sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie
-
-tiempo = int(input('ingrese un numero de metros:'))
-print(f"la cantidad de pies equivalente a la cantidad de metros ingresados es: {(tiempo*39.27)/12} pies")
-
 ______________________________________
 
 31 Escribir un programa que genere las tablas de multiplicar de un número introducido por el
