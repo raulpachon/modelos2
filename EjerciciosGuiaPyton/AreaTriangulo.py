@@ -108,3 +108,14 @@ def operar(N):
   res=N*N-2*N
   print("el resultado de restar el doble al cuadrado del numero ingresado es :",res)
 operar(N)
+# recursividad fibonacci
+def fibo(n) :
+    if n<=2:return 1
+    return fibo(n-1)+fibo(n-2)
+_____________________
+# recursividad potencia
+def pot(n,m) :
+    if m==0: return 1
+    if m==1: return n
+    if return pot (m,m-1)*n
+___________________________
