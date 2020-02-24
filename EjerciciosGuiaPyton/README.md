@@ -7,9 +7,9 @@
   31 Escribir un programa que genere las tablas de multiplicar de un número introducido por el
   teclado.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Tabla_de_multiplicar.py)
 
-34. Escribir un programa que pida un número y si el que se introduce por el teclado es diferente
-de cero (0) vuelva a solicitarlo, el programa debe mostrar en cada iteración cuanto es la
-suma de los valores absolutos de los pares y de los impares. [solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Suma_pares.py
+  34. Escribir un programa que pida un número y si el que se introduce por el teclado es diferente
+  de cero (0) vuelva a solicitarlo, el programa debe mostrar en cada iteración cuanto es la
+  suma de los valores absolutos de los pares y de los impares. [solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Suma_pares.py
 )
 
 Escribir un programa que llene una lista con los veinte primeros números pares y calcule su
