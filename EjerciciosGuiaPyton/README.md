@@ -4,7 +4,7 @@
 altura[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/AreaTriangulo.py)
 
 13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros
-sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[solución]()
+sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Metros-Pies.py)
 
 31 Escribir un programa que genere las tablas de multiplicar de un número introducido por el
   teclado.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Tabla_de_multiplicar.py)
@@ -14,7 +14,7 @@ de cero (0) vuelva a solicitarlo, el programa debe mostrar en cada iteración cu
 suma de los valores absolutos de los pares y de los impares. [solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Suma_pares.py)
 
 43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su
-suma.[solución]()
+suma.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/suma20.py)
 
 52.Escribir un programa que divida todos los elementos de una matriz M (3,4) por el elemento
 situado en la posición 2,2 .[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Matrices.py)
