@@ -52,7 +52,7 @@ sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[s
 87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicioanterior.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/archivoLeer.py)
 
 ## Ejercicios varios
-
+93. Escribir un programa que implemente un calendario perpetuo, es decir, que dado una fecha en formato mes, día y año le retorne al usuario el día de la semana que corresponde para esta fecha [Solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/diaSemana2.py)
 
 
 
