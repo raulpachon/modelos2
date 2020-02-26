@@ -47,8 +47,12 @@ sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[s
 ## Módulos
 
 ## Archivos
+86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/archivoASCII.py)
+
+87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicioanterior.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/archivoLeer.py)
 
 ## Ejercicios varios
+
 
 
 
