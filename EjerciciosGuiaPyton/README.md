@@ -22,10 +22,9 @@ sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie[s
 
 ## Ejercicios con Colecciones
 
-43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su
-suma.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/suma20.py)
+43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/suma20.py)
 
-52.Escribir un programa que divida todos los elementos de una matriz M (3,4) por el elemento situado en la posición 2,2 .[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Matrices.py)
+52.Escribir un programa que divida todos los elementos de una matriz M (3,4) por el elemento situado en la posición 2,2.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/Matrices.py)
 
 ## Ejercicios con Cadenas  de caracteres 
 
@@ -37,7 +36,7 @@ suma.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGu
 
 72.Escribir un programa que transforme números entre 0 y 999 a números romanos (usar funciones).[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/numerosRomanos.py)
 
-68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado.  [solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/operacion.py)
+68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/operacion.py)
 
 ## Recursividad
 
@@ -46,7 +45,9 @@ suma.[solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGu
 80. Escribir un programa que mediante funciones recursivas calcule el termino “x” de la serie de fibonacci. [solución](https://github.com/raulpachon/modelos2/blob/master/EjerciciosGuiaPyton/fibo_recursivo.py)
 
 ## Módulos
+
 ## Archivos
+
 ## Ejercicios varios
 
 
