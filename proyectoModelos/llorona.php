@@ -32,7 +32,8 @@
         <a href="inicio.php"> Inicio</a>
         <a href="puntajesj.php"> &#127918;<?php
             echo "  $name ";
-            $_SESSION['name'] = $name; 
+			$_SESSION['name'] = $name; 
+			$_SESSION['juego'] = "llorona"; 
         }       
         ?></a>
             <a href="salir.php"> Salir</a>

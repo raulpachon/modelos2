@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -5,18 +10,13 @@ body {
     background-size: 100% 100%;
 }
 
-* {
-    padding: 0px;
-    margin: 0px;
-}
-
 input[type="checkbox"] {
     display: none;
 }
 
-nav {
+.nav1 {
     background-color: rgba(16, 16, 16, .5);
-    top: 40px;
+    top: 140px;
     width: 350px;
     height: 70%;
     left: -350px;
@@ -24,8 +24,22 @@ nav {
     transition: all .5s;
 }
 
+.nav2 {
+    background-color: rgba(16, 16, 16, .5);
+    top: 140px;
+    width: 350px;
+    height: 70%;
+    left: -700px;
+    position: absolute;
+    transition: all .5s;
+}
+
 input[type="checkbox"]:checked~nav {
-    transform: translateX(350px);
+    transform: translateX(380px);
+}
+
+.input1[type="checkbox"]:checked~nav {
+    transform: translateX(700px);
 }
 
 ul {
@@ -75,6 +89,7 @@ h3 {
     background-color: #0C0B0B;
     font-weight: 600;
     font-family: "Times New Roman";
+    padding: 60px;
 }
 
 h4 {
@@ -154,7 +169,7 @@ p {
 [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
-    speak: none;
+    /*speak: none;*/
     font-style: normal;
     font-weight: normal;
     font-variant: normal;

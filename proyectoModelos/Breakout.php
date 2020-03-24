@@ -21,7 +21,8 @@
 </head>
 <body >
 	<header>
-        <div class="logo">JuegosXmonton</div>
+		<div class="logo">JuegosXmonton</div>
+		<div>
         <nav>
         <a href="inicio.php"> Inicio</a>
         <a href="puntajesj.php"> &#127918;<?php
@@ -30,24 +31,40 @@
         }       
         ?></a>
             <a href="salir.php"> Salir</a>
-        </nav>
-    </header>    
-	<center><b>________________________________<img src="static/imagenes/ralph.gif" width="115" height="115">
+		</nav>
+	</div>
+	</header>  
+	<center><b >________________________________<img src="static/imagenes/ralph.gif" width="115" height="115" >
 	<input type="checkbox" id="chec">
 		<label for="chec">
-			<img src="static/imagenes/menu.png" width="30px" height="30px">
+			<img src="static/imagenes/menu.png" width="40px" height="40px">
 		</label>
-		<nav>
+		<nav class="nav1">
 			<ul>
 				<li><b></b></li>
 				<li><h5>INSTRUCCIONES</h5></li>
 				<br>
-				<li><h3>Breakout es el famoso juego de los años 70s y 80s en el que se deben romper todos los bloques existentes.</h3></li>
+				<li><h3>  Breakout es el famoso juego de los años 70s y 80s en el que se deben romper todos los bloques existentes.</h3></li>
 				<li><h3>Ayuda a Ralph a romper cada ladrillos que hay por nivel para realizar su cometido contra las personas del hotel.</h3></li>
 				<li><h3>___________________________</h3></li>
 				<li><center><h3>BUENA SUERTE</h3></li>
 				<li><b><center><img src="static/imagenes/instrucciones.png" width="180" height="180"></b></li>
 			</ul>
+		</nav><br><br>
+		<input type="checkbox" id="chec1" class="input1">
+		<label for="chec1">
+			<img src="static/imagenes/guardar.png" width="40px" height="40px">
+		</label>
+		<nav class="nav2">
+			<form method="post" action="regPuntaje.php" >
+			
+				<h5>Guardar</h5>
+				<br>
+				<input  type="text"  id="puntaje" name="puntaje" readonly ><br>
+				<input   type="text"  name="juego" value="ralf" readonly ><br>		
+				<h3>___________________________</h3><br>
+				<input type="submit" value="Guardar"  ><br>
+			</form>
 		</nav><br><br>
     <canvas id="mi_canvas" width="550" height="440"></canvas>
     <script type="text/javascript">
@@ -164,10 +181,13 @@
                     cambioY = -cambioY
                 }else{
 					//Mensaje de fin de juego y pausa del juego
-                    contexto.font = "bold 30px sans-serif";
+					contexto.font = "bold 30px sans-serif";
+					document.getElementById('puntaje').value = puntosMostrar;
                     contexto.fillText("GAME OVER", micanvas.height/2, micanvas.width/2);
                     sleep();
-                    document.location.reload();
+					document.location.reload();
+					 
+
                 }
             }
 

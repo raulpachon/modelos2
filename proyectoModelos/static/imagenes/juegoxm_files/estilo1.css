@@ -3,25 +3,7 @@
     padding: 0;
 }
 
-table {
-    border: 2px solid #ffffff;
-}
-
-td {
-    border: 2px solid #ffffff;
-}
-
-tr {
-    border: 2px solid #ffffff;
-}
-
-h3 {
-    color: #ffffff;
-    background: transparent;
-}
-
 .contenedor {
-    position: absolute;
     width: 100%;
     height: 1000px;
     background: url("../imagenes/background.jpg")no-repeat center center fixed;
@@ -48,32 +30,28 @@ header {
 }
 
 .panelJuegos {
-    position: absolute;
     width: 50%;
     max-width: 1000px;
     margin-bottom: 1em;
     margin: 0% 8% 5% 42%;
     overflow: hidden;
+    display: flex;
     justify-content: space-between;
     padding-top: 2em;
-    display: grid;
-    grid-template-columns: repeat(6, 100px);
-    grid-template-rows: repeat(9, 100px);
 }
 
 .panelJuegos .itemJuego {
-    width: 120px;
-    height: 120px;
+    width: 160px;
     overflow: hidden;
     background-color: transparent;
 }
 
 .panelJuegos .itemJuego .imgJuego {
-    width: 70px;
-    height: 70px;
-    margin: 20px 20px 20px 20px;
+    width: 110px;
+    height: 110px;
+    margin: 25px 25px 25px 25px;
     background-color: transparent;
-    border-radius: 35px;
+    border-radius: 60px;
     border: 2px solid #ffffff;
     display: inline-block;
     cursor: pointer;
@@ -85,8 +63,8 @@ header {
 .panelJuegos .itemJuego .imgJuego:hover {
     border-radius: 50%;
     -webkit-border-radius: 50%;
-    box-shadow: 0px 0px 10px 10px #1e87e9b4;
-    -webkit-box-shadow: 0px 0px 10px 10px #1e87e9b4;
+    box-shadow: 0px 0px 15px 15px #1e87e9b4;
+    -webkit-box-shadow: 0px 0px 15px 15px #1e87e9b4;
 }
 
 header .logo {

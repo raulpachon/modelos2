@@ -35,10 +35,10 @@
                         <input type="clave" placeholder="Contrase&ntilde;a" name="clave" id="clave_input" required>
                     </div>
                     <div class="submit">
-                         <input type="submit" value="ingresar" id="form_button1" />
+                         <input type="submit" name="ingresar" value="ingresar" id="form_button1" />
                     </div>
                     <div class="submit">
-                        <input type="submit" value="Registro " id="form_button2" />
+                        <input type="submit" name="registro" value="Registro " id="form_button2" formaction="regUser.php" />
                     </div>
                 </form>
             </div>
@@ -47,7 +47,7 @@
 
     <div class="piepag">
         <br>
-        <p>&nbsp;&nbsp;&nbsp;Developed by: Raúl Pachón , David Martinez, luis Garzón</p>
+        <p>&nbsp;&nbsp;&nbsp;Developed by: Raúl Pachón , David Martinez, luis Cubillos</p>
     </div>
 </body>
 

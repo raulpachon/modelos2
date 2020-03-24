@@ -1,9 +1,11 @@
 <?php
 //CONTROLADOR
+
 session_start();
 require 'conexion.php';
 $name = $_POST['name'];
 $clave = $_POST['clave'];
+
 
  $sql =<<<EOF
 SELECT * FROM jugador where username = '$name' and clave = '$clave';

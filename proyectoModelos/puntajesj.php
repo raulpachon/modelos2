@@ -15,6 +15,9 @@
     <link href="static/css/estilo1.css" rel="stylesheet">
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="header.js"></script>
+    <style>
+    .heading { color: #FF0000; }
+  </style>
 </head>
 
 <body>
@@ -31,11 +34,11 @@
         </nav>
     </header>
     <div class="contenedor">
-<p>Hola <?php echo "  $name "; ?> estos son tus puntajes:</p><br>
+<h3>Hola <?php echo "  $name "; ?> estos son tus puntajes:</h3><br>
     <table style="margin: auto; width: 800px; border-collapse: separate; border-spacing: 10px 5px;">
             <thead>
-              <th>juego.</th>
-              <th>puntaje</th>
+              <th><h3>juego</h3></th>
+              <th><h3>puntaje</h3></th>
             </thead>
 
             <?php
@@ -47,8 +50,8 @@ EOF;
             while($row = $ret->fetchArray(SQLITE3_ASSOC) ) {
             
               echo "<tr>";
-                echo "<td>".$row['nomJuego']."</td>";
-                echo "<td>"; echo $row['puntos']; echo "</td>";
+                echo "<td><h3>".$row['nomJuego']."</h3></td>";
+                echo "<td><h3>"; echo $row['puntos']; echo "</h3></td>";
      
               echo "</tr>";
             }

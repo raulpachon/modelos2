@@ -42,7 +42,46 @@
             <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
             </div>
             <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
+            </div>
+            <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
@@ -54,148 +93,109 @@
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
+            </div>
+            <div class="itemJuego">
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             <div class="itemJuego">
             <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="Breakout.php"><img class="imgJuego" src="static/imagenes/ralph.gif"></a>
             </div>
             <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
-            </div>
-            <div class="itemJuego">
-            <a href="llorona.php"><img class="imgJuego" src="static/imagenes/kika.png"></a>
+            <a href="snake.php"><img class="imgJuego" src="static/imagenes/snakegif.gif"></a>
             </div>
             
             
