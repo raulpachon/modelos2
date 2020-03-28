@@ -7,16 +7,15 @@
           header("location: index.php");
         }else{
 ?>
-	<html>
-		<head>
-			<title>Snake</title>
-			<link rel="stylesheet" type="text/css" href="static/css/estilos.css">
-            <link rel="stylesheet" type="text/css" href="static/css/estilo1.css">
-            <link rel="stylesheet" type="text/css" href="static/css/style.css">
+<html>
+<head>
 
-        </head>
-		<body>
-        <header>
+<link rel="stylesheet" type="text/css" href="static/css/estilo1.css">
+<link rel="stylesheet" type="text/css" href="static/css/estilos.css">
+<title>Snake game</title>
+</head>
+<body >
+	<header>
 		<div class="logo">JuegosXmonton</div>
 		<div>
         <nav>
@@ -30,13 +29,13 @@
 		</nav>
 	</div>
 	</header>  
-		<br>
-		<center><b>________________________________<img src="static/imagenes/snakegif.gif" width="100" height="100">
-		<input type="checkbox" id="chec">
+	<center><br><h4 id="Puntaje">Puntaje: 0</h4>
+		<center><h4 id="Puntajem">Maximo puntaje: 0</h4>
+	<input type="checkbox" id="chec">
 		<label for="chec">
-			<img src="static/imagenes/menu.png" width="80" height="90">
+			<img src="static/imagenes/menu1.png" width="40px" height="40px">
 		</label>
-		<nav>
+		<nav class="nav1">
 			<ul>
 				<li><b></b></li>
 				<li><h5>INSTRUCCIONES</h5></li>
@@ -45,13 +44,26 @@
 				<li><h3>Ayuda a la serpiente a conseguir mas puntos para que siga creciendo moviendola con las flechas del teclado.</h3></li>
 				<li><h3>___________________________</h3></li>
 				<li><center><h3>BUENA SUERTE</h3></li>
-				<li><b><center><img src="static/imagenes/snakeInst.png" width="150" height="120"></b></li>
+				<li><b><center><img src="static/imagenes/snakeInst.png" width="180" height="180"></b></li>
 			</ul>
-		</nav>
-		<center><h4 id="Puntaje">Puntaje: 0</h4>
-		<center><h4 id="Puntajem">Maximo puntaje: 0</h4>
+		</nav><br><br>
+		<input type="checkbox" id="chec1" class="input1">
+		<label for="chec1">
+			<img src="static/imagenes/guardar.png" width="40px" height="40px">
+		</label>
+		<nav class="nav2">
+			<form method="post" action="regPuntaje.php" >
+			
+				<h5>Guardar</h5>
+				<br>
+				<input  type="text"  id="pntaje" name="puntaje" readonly ><br>
+				<input   type="text"  name="juego" value="snake" readonly ><br>		
+				<h3>___________________________</h3><br>
+				<input type="submit" value="Guardar"  ><br>
+			</form>
+		</nav>        
 			<canvas id="c" width="450" height="450"></canvas>
-		<script type="text/javascript" src="funcsnake.js"></script>
+		<script type="text/javascript" src="static/js/funcsnake.js"></script>
 		</center>
 		<div class="social-bar">
 			<a href="index.html" class="icon icon-frUDiv" target="_blank"></a>

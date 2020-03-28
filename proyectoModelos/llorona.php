@@ -61,6 +61,16 @@
 			<h1>La Llorona</h1>
 			<button id="instrucciones">Ver Instrucciones</button><br>
 			<button id="iniciar">Iniciar</button>
+			<form method="post" action="regPuntaje.php" >
+			<br><br>
+			<h1>- Guardar -</h1>
+				<br>
+				<input  type="text"  id="pntaje" name="puntaje" readonly ><br>
+				<input   type="text"  name="juego" value="llorona" readonly ><br>		
+				<h3>___________________________</h3><br>
+				<input type="submit" value="Guardar puntaje"  ><br>
+			</form>
+		</nav>
 		</section>
 		<audio id="pierde">
 			<source src="static/sonidos/pierde_vida.ogg" type="audio/ogg">

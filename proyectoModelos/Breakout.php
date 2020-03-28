@@ -50,7 +50,7 @@
 				<li><center><h3>BUENA SUERTE</h3></li>
 				<li><b><center><img src="static/imagenes/instrucciones.png" width="180" height="180"></b></li>
 			</ul>
-		</nav><br><br>
+		</nav><br>
 		<input type="checkbox" id="chec1" class="input1">
 		<label for="chec1">
 			<img src="static/imagenes/guardar.png" width="40px" height="40px">
@@ -65,7 +65,7 @@
 				<h3>___________________________</h3><br>
 				<input type="submit" value="Guardar"  ><br>
 			</form>
-		</nav><br><br>
+		</nav>
     <canvas id="mi_canvas" width="550" height="440"></canvas>
     <script type="text/javascript">
 	
