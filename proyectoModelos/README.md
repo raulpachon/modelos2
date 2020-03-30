@@ -16,4 +16,4 @@ Realice la descarga de todos los archivos que contiene la carpeta.
 
 Ingrese su usuario para la verificacíon dentro de la pagina.
 
-Revise las instrucciones segun el juego.
+Revise las instrucciones que se encuentran en cada pagina del juego.
